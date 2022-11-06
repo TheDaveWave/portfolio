@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+#profile-pic {
+	border-radius: 10%;
+	width: 200px;
+}
+
 /* Basic */
 
 	html {
