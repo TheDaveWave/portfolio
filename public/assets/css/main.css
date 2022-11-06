@@ -77,6 +77,14 @@ input, select, textarea {
 	width: 200px;
 }
 
+.about-pic {
+	width: 200px;
+}
+
+#guitar {
+	width: 300px;
+}
+
 /* Basic */
 
 	html {
