@@ -1943,13 +1943,14 @@ input, select, textarea {
 					background: #7fb7d2;
 				}
 
-			.icon.circle.fa-facebook-f {
-				background: #7490c3;
+			.icon.circle.fa-linkedin-in {
+				background: #2D64BC;
 				color: #fff;
 			}
 
-				.icon.circle.fa-facebook-f:hover {
-					background: #829bc9;
+				.icon.circle.fa-linkedin-in:hover {
+					background: rgb(84, 127, 198);
+					/* background: #829bc9; */
 				}
 
 			.icon.circle.fa-google-plus-g {
@@ -2527,7 +2528,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/jimmy-joes.png");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
